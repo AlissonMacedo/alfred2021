@@ -1,5 +1,4 @@
-# alfred2021
-Teste react-native.
+# Teste react-native 2021
 
 Desenvolva um app de lista de afazeres (to-do list) em React Native implementando hooks e que atualize em real-time, contendo tambem um chat livre entre os consumidores. Estes consumidores poderão alterar livremente o conteúdo, através da criação e deleção de itens.
 
